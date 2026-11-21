@@ -2,6 +2,8 @@
 
 Este documento reúne os principais Achievements (conquistas) disponíveis no GitHub, o que é necessário para obtê-los e sugestões práticas para alcançá-los. Algumas conquistas históricas foram aposentadas e não podem mais ser obtidas. 【1-b4bd3d】【2-db1378】【3-54874a】
 
+Os selos abaixo são carregados diretamente dos servidores de imagens do GitHub; não há cópias das imagens armazenadas neste repositório. A lista de referência foi consultada no catálogo comunitário [Omni-HuB/all-github-badges](https://github.com/Omni-HuB/all-github-badges), que declara licença CC0 1.0. Essa licença do catálogo não implica uma licença para as imagens oficiais do GitHub.
+
 ---
 
 # Como Ver Seus Achievements
@@ -18,7 +20,7 @@ Ou diretamente pelo seu perfil.
 
 ---
 
-# Achievement: Pull Shark 🦈
+# Achievement: Pull Shark <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Selo Pull Shark" width="32">
 
 ## Descrição
 
@@ -76,7 +78,7 @@ Abrir PRs regularmente.
 
 ---
 
-# Achievement: Pair Extraordinaire 🤝
+# Achievement: Pair Extraordinaire <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Selo Pair Extraordinaire" width="32">
 
 ## Descrição
 
@@ -124,7 +126,7 @@ Após o merge do PR o progresso será contabilizado.
 
 ---
 
-# Achievement: Quickdraw ⚡
+# Achievement: Quickdraw <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Selo Quickdraw" width="32">
 
 ## Descrição
 
@@ -164,7 +166,7 @@ Quickdraw
 
 ---
 
-# Achievement: Starstruck ⭐
+# Achievement: Starstruck <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Selo Starstruck" width="32">
 
 ## Descrição
 
@@ -221,7 +223,7 @@ Ações:
 
 ---
 
-# Achievement: YOLO 😅
+# Achievement: YOLO <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Selo YOLO" width="32">
 
 ## Descrição
 
@@ -259,7 +261,7 @@ Realizar merge diretamente.
 
 ---
 
-# Achievement: Galaxy Brain 🧠
+# Achievement: Galaxy Brain <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Selo Galaxy Brain" width="32">
 
 ## Descrição
 
@@ -292,7 +294,7 @@ O GitHub realizou mudanças na forma de obtenção deste Achievement e seu statu
 
 ---
 
-# Achievement: Public Sponsor ❤️
+# Achievement: Public Sponsor <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" alt="Selo Public Sponsor" width="32">
 
 ## Descrição
 
@@ -318,7 +320,7 @@ Realizar um patrocínio recorrente.
 
 ---
 
-# Achievement: Heart On Your Sleeve ❤️
+# Achievement: Heart On Your Sleeve <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" alt="Selo Heart On Your Sleeve" width="32">
 
 ## Descrição
 
@@ -342,7 +344,7 @@ Atualmente a obtenção desta conquista pode estar indisponível dependendo das 
 
 ---
 
-# Achievement: Open Sourcerer
+# Achievement: Open Sourcerer <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" alt="Selo Open Sourcerer" width="32">
 
 ## Descrição
 
@@ -368,13 +370,13 @@ Verifique a disponibilidade atual diretamente no GitHub. 【2-db1378】【4-dda1
 
 # Achievements Históricos (Não Disponíveis)
 
-## Arctic Code Vault Contributor ❄️
+## Arctic Code Vault Contributor <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" alt="Selo Arctic Code Vault Contributor" width="32">
 
 Concedido para contribuições incluídas no programa de arquivamento do GitHub em 2020. Não pode mais ser obtido. 【3-54874a】【4-dda1e8】
 
 ---
 
-## Mars 2020 Contributor 🚁
+## Mars 2020 Contributor <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" alt="Selo Mars 2020 Contributor" width="32">
 
 Concedido para contribuições relacionadas aos projetos utilizados na missão Mars 2020. Não pode mais ser obtido. 【3-54874a】【4-dda1e8】
 
@@ -474,3 +476,10 @@ Meta: 16 estrelas
 - [ ] Open Sourcerer
 - [ ] Arctic Code Vault (Histórico)
 - [ ] Mars 2020 Contributor (Histórico)
+
+---
+
+# Fontes das imagens
+
+- [Catálogo comunitário de badges e achievements](https://github.com/Omni-HuB/all-github-badges) (CC0 1.0; última atualização do conteúdo em maio de 2024)
+- Imagens hospedadas pelo GitHub, por exemplo, o selo [Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
