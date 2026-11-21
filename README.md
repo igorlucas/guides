@@ -20,3 +20,4 @@ solução de problemas e referências.
 ## Guias
 
 - [Autenticação do Git CLI](guias/git/autenticacao-git-cli.md)
+- [GitHub Achievements](guias/github/achievements.md)
